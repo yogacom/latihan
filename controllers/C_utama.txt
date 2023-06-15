@@ -1,0 +1,2 @@
+cutama
+==>menambahkan teks baru pada file ini

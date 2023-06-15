@@ -1,0 +1,8 @@
+function main(){
+
+	a->b->c->d;
+}
+
+function login(){
+	//proses login
+}
